@@ -7,7 +7,7 @@ from fastapi.responses import JSONResponse
 from bins import mydict, get_bin_info
 import re
 from pydantic import BaseModel
-from py_adyen_encrypt import encryptor
+# from py_adyen_encrypt import encryptor
 import urllib
 
 
